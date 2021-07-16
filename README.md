@@ -51,18 +51,18 @@ It represents the flow of data in a system graphically.The data flow diagrams ha
 
 For the implementation of the system, the foremost step is collecting a dataset.For this i created my own data set to avoid the problem of overfitting due to the similarities between the hand gestures. The data collection program is available in "collect_data.ipynb".
 (or)
-train data link : https://drive.google.com/drive/folders/1cIRDggheNw7RPxiW6GQE28PInoVNpAHh?usp=sharing
-test data link : https://drive.google.com/drive/folders/1ULPJwwHtpmhkADJq5Niicso5uI0OONb9?usp=sharing
+- train data link : https://drive.google.com/drive/folders/1cIRDggheNw7RPxiW6GQE28PInoVNpAHh?usp=sharing
+- test data link : https://drive.google.com/drive/folders/1ULPJwwHtpmhkADJq5Niicso5uI0OONb9?usp=sharing
 
 
 ## TRAIN MODEL
 
 training source is available in the file "train.ipynb"
  and 
-the models that trained by me are "best_model_data.h5" & "best_model_data1.h5"
+the models that are trained by me --> "best_model_data.h5" & "best_model_data1.h5"
 
 ## PREDICTING THE GESTURE
-predicting the gesture source code is available in the filr "gesture.ipynb"
+ source code for predicting the gesture is available in the file "gesture.ipynb"
 
 
 
