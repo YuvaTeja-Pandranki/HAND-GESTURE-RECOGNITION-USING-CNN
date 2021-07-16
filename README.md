@@ -66,5 +66,26 @@ the models that are trained by me --> "best_model_data.h5" & "best_model_data1.h
 
 
 
-##
+## CONCLUSION
 
+Through this application i have  developed a hand gesture recognition system based on American Sign Language. This real-time system framework is implemented effectively with python and its libraries. First, i created a dataset of 1000 images containing hand gestures related to different classes corresponding to alphabets(A-Z) and numbers(0-9). Images are preprocessed for reduction of noise and blur using gaussian filter and otsu algorithm. These training images are given as input to an object recognition model which is built using convolutional neural networks. For the real-time prediction, frames are extracted from the live web-cam video streaming by the application
+
+
+
+# FUTURE SCOPE
+
+project can be extended with the following features:
+⦁	Conversion of hand gesture sequence into readable sentences in natural language.
+⦁	Conversion of hand gesture sequence into voice.
+
+
+
+## REFERENCE
+
+- [1] V. Elavarasi, N. Parkavi, Dr. B. Padmanaban & Dr. A. Sundar Raj, “ Hand Gesture Recognition and Word Conversion for Specially Challenged and Rehabilitated People” Journal of Shanghai Jiaotong University, Volume 16, Issue8, August - 2020.
+- [2] Rosemary Antony, Stephy Paul, Silji Simon C, Scaria Alex, “Sign Language Translation System'' International Journal of Scientific Research & Engineering Trends, Volume 6, Issue 3, May-June 2020.
+- [3] Basel A.Dabwan, “Convolution Neural Network-Based Sign Language Translation System” International Journal of Engineering, Science and Mathematics, Vol.9, Issue 6, June 2020.
+- [4] Ankit Ojha, Ayush Pandey, Shubham Maurya, Abhishek Thakur, Dr. Dayananda P, “Sign Language to Text and Speech Translation in Real Time Using CNN Network” International Journal of Engineering Research & Technology, Volume 8, Issue 15, 2020. 
+- [5] R Srinivas, "Sign Language Interpreter using Deep Learning" Alochana Chakra Journal, Volume IX, Issue VI, June/2020.
+- [6] S.S.Kadam, Bhagyashree Sarode, Chinmayee Modak, Khushboo Singh, "Sign Language Translation System for Dumb and Deaf" IJRESM Volume-3, Issue-4, April-2020
+- [7] Bhargav Hegde, Dayananda P, Mahesh Hegde, Chetan C, “Deep Learning Technique for Detecting NSCLC”, International Journal of Recent Technology and Engineering (IJRTE), Volume-8 Issue-3, September 2019, pp. 7841-7843
