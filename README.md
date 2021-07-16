@@ -75,8 +75,8 @@ Through this application i have  developed a hand gesture recognition system bas
 # FUTURE SCOPE
 
 project can be extended with the following features:
-⦁	Conversion of hand gesture sequence into readable sentences in natural language.
-⦁	Conversion of hand gesture sequence into voice.
+- Conversion of hand gesture sequence into readable sentences in natural language.
+- Conversion of hand gesture sequence into voice.
 
 
 
