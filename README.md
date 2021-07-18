@@ -36,7 +36,7 @@ It represents the flow of data in a system graphically.The data flow diagrams ha
 - 	RGB to Grayscale conversion
 - 	Gaussian Filters
 - 	Otsu Thresholding
-- 	Otsu Thresholding
+- 	Adaptive Thresholding
 - 	Training using CNN
 - 	- Sequential model
 - 	- Convolution layer
