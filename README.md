@@ -2,6 +2,7 @@
 
 
 # Researched based Project
+# Link: https://drive.google.com/file/d/1_ifiL5-wHGFHnLJ9wb_DqnT2ZtOOFz3D/view?usp=sharing
 
 ## ABSTRACT :
 Communication plays a key role wherever we are. In order to make communication possible between people who are physically challenged people and normal people, different communities follow different hand sign languages. Every language differs in hand signal patterns. Present day technologies made it feasible to develop applications related to hand signal recognition.
